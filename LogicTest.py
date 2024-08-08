@@ -24,3 +24,4 @@ while str.isdigit(N)==False:
         break
 
 FV(int(P),int(I),int(N))
+input();
